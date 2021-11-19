@@ -1,0 +1,19 @@
+@charset	"ISO-8859-1";
+BODY		{margin: 0% 0%; padding: 0; text-align: center; background-color: white; color: black; font-weight: normal; font-style: normal; font-variant: normal; font-size: 100%; font-family: Tahoma, Times, sans-serif;}
+P			{margin-bottom: 18pt; margin-top: 18pt; text-align: center;}
+P.h			{font-size: 150%;}
+P.e			{font-size: 67%; margin-top: 18pt; margin-bottom: 0pt;}
+P.f			{font-size: 67%; margin-top: 0pt; margin-bottom: 0pt;}
+P.g			{font-size: 67%; margin-top: 9pt;}
+A:link		{color: #009966;}
+A:active	{color: #006699;}
+A:visited	{color: #006699;}
+A.q:link	{color: #808080;}
+A.q:active	{color: #808080;}
+A.q:visited	{color: #808080;}
+TABLE		{table-layout: auto; width: 100%; border-collapse: collapse; border-style: none; padding: 2pt; color: #00CC66;}
+TD.r		{width: 50%; text-align: right;}
+TD.l		{width: 50%; text-align: left;}
+TD.q		{width: 50%; text-align: right; color: #808080;}
+TD.k		{width: 50%; text-align: left; color: #808080;}
+IMG			{margin: 0; border: 0; width: 24px; height: 25px;}

@@ -1,0 +1,28 @@
+@charset	"ISO-8859-1";
+BODY		{margin: 0 0; padding: 0; text-indent: 6pt; text-align: justify; background-color: white; color: black; font-weight: normal; font-style: normal; font-variant: normal; font-size: 100%; font-family: Tahoma, Times, sans-serif;}
+P			{margin-bottom: 0; margin-top: 18pt;}
+P.c			{text-align: center; margin-top: 0pt;}
+P.f			{text-align: center; font-size: 67%; margin-top: 36pt;}
+P.h			{text-align: center; font-size: 150%; margin-bottom: 18pt;}
+P.l			{text-align: center; font-size: 150%; margin-top: 36pt;}
+P.n			{margin-top: 0;}
+P.p			{text-indent: 0; margin-top: 0pt;}
+P.q			{text-indent: 0;}
+P.r			{text-indent: 0; margin-top: 0pt; margin-bottom: 18pt;}
+P.t			{text-align: center; font-weight: bold; margin-bottom: 18pt;}
+P.v			{text-align: center; font-size: 67%;}
+A:link		{color: black; text-decoration: none;}
+A:active	{color: black; text-decoration: none;}
+A:visited	{color: black; text-decoration: none;}
+A.i:link	{color: #009966; text-decoration: underline;}
+A.i:active	{color: #006699; text-decoration: underline;}
+A.i:visited	{color: #006699; text-decoration: underline;}
+A.v:link	{color: #009966;}
+A.v:active	{color: #006699;}
+A.v:visited	{color: #009966;}
+TABLE		{table-layout: fixed; width: 100%; border-collapse: collapse; border-style: none; text-align: center;}
+TD			{width: 36%; text-align: left;}
+TD.m		{width: 64%; text-align: right;}
+TD.l		{width: 100%; text-align: left;}
+TD.r		{width: 100%; text-align: right;}
+IMG			{margin: 0; border: 0; width: 24px; height: 25px;}
